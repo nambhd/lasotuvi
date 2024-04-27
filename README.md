@@ -10,3 +10,9 @@ Repository này chỉ chứa API cho chương trình an sao tử vi. Để tích
 Video hướng dẫn:
 
 [![Tutorial](http://i.vimeocdn.com/video/717548888_640.jpg)](https://vimeo.com/283303258 "Tutorial")
+
+Memo
+```
+python3 setup.py check
+sudo python3 setup.py install
+```
